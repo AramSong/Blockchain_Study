@@ -41,7 +41,7 @@
 
 2. 다운로드 한 뒤, 두 파일을 드래그해서 이클립스 내 프로젝트 이름에 드롭.
 
-   ![1547450192432](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1547450192432.png)
+ ![1547450192432](https://user-images.githubusercontent.com/38032500/51464654-64d6fb80-1da9-11e9-9cb2-6598859a3511.png)
 
    3. 빌드 패스(Build Path)에 추가.  두 파일 클릭 후 , 오른쪽버튼->Build path -> Add to Build Path
 
