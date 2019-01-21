@@ -36,7 +36,8 @@
 
 1. 해당 파일 설치
 
-![1547450116724](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1547450116724.png)
+![1547450116724](https://user-images.githubusercontent.com/38032500/51464581-4113b580-1da9-11e9-8fcc-d58120cb0c2f.png)
+
 
 2. 다운로드 한 뒤, 두 파일을 드래그해서 이클립스 내 프로젝트 이름에 드롭.
 
